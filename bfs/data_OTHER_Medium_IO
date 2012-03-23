@@ -1,0 +1,4 @@
+%Real Time (s), Time spent in Kernel Mode (s), Time spent in user mode, Percentage of the CPU gotten, Involuntarily Contex switches, Voluntarily context switchs 
+83.78,11.28,63.92,89%,161416,187720
+81.40,10.59,61.53,88%,154517,178907
+84.21,9.62,65.38,89%,158644,184061
