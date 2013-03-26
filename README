@@ -32,5 +32,10 @@ pi:
 pi-sched:
  ./pi-sched <Number of Iterations> <Scheduling Policy>
 
+test-sched:
+./test-sched <Scheduling Policy> <Load desired> <Type of Load>  
+	Load options: <HEAVY | MEDIUM | LIGHT> 
+	Load Type Options: <IO | CPU | HYBRID>
+
 testscript:
  ./testscript
